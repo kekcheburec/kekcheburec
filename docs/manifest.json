@@ -1,0 +1,13 @@
+{
+  "name": "Personal page @kekcheburec",
+  "short_name": "Roman Samusevich (@kekcheburec)",
+  "theme_color": "#D79921",
+  "background_color": "#262626",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [],
+  "splash_pages": null
+}
+
